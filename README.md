@@ -70,7 +70,7 @@ Diskriminant değerine göre denklemin kökleri belirlenir.
 Terminal veya komut satırında aşağıdaki komutu çalıştırın:
 
 ```bash
-g++ main.cpp -o denklem
+g++ odev-1.cpp -o denklem
 ```
 
 ### 2️⃣ Çalıştırma
