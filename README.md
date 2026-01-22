@@ -3,6 +3,15 @@
 
 # 📘 İkinci Dereceden Denklem Çözme Programı (C++)
 
+## 🎓 Öğrenci Bilgileri
+
+* **Öğrenci Numarası:** 2507020024
+* **Ad Soyad:** Diyorbek Nurmatov
+* **Ödev:** Ödev-1
+* **Fakülte:** Bilgisayar Mühendisliği
+
+---
+
 Bu proje, C++ programlama dili kullanılarak yazılmış basit bir konsol uygulamasıdır. Program, kullanıcıdan alınan **a**, **b** ve **c** katsayılarına göre ikinci dereceden bir denklemin köklerini hesaplar.
 
 Genel denklem formu:
@@ -48,7 +57,7 @@ Diskriminant değerine göre denklemin kökleri belirlenir.
 
 ```
 📁 Proje
- └── main.cpp
+ ├── main.cpp
  └── README.md
 ```
 
@@ -133,8 +142,8 @@ Bu denklemin iki farkli gercek koku vardir.
 
 ## 👨‍💻 Geliştirici
 
-Bu proje eğitim amaçlı hazırlanmıştır.
-İstediğiniz gibi düzenleyebilir ve geliştirebilirsiniz.
+**Diyorbek Nurmatov**
+Bilgisayar Mühendisliği – Ödev-1
 
 ---
 
