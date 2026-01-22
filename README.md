@@ -57,7 +57,7 @@ Diskriminant değerine göre denklemin kökleri belirlenir.
 
 ```
 📁 Proje
- ├── main.cpp
+ ├── odev-1.cpp
  └── README.md
 ```
 
